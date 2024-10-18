@@ -29,3 +29,6 @@ attr = "monopolio_01.__version__"
 [tool.setuptools.packages.find]
 where = [ "src",]
 namespaces = false
+
+[tool.kedro_telemetry]
+project_id = "bd50a164647e473fbd5f3d029445e3f4"
